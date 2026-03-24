@@ -2,8 +2,11 @@
 
 ## 環境構築
 
+```bash
+
 git clone https://github.com/pokimaru3/Task-Manager.git
 
+```
 
 ## 概要
 
