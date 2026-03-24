@@ -1,5 +1,10 @@
 # アプリ名　：　Task Manager
 
+## 環境構築
+
+git clone https://github.com/pokimaru3/Task-Manager.git
+
+
 ## 概要
 
 JavaScriptの理解を深めるために作成したタスク管理アプリです。
